@@ -1,4 +1,4 @@
-<img align="right" src="" />
+<img align="right" width="250" src="flutter_dash.gif" />
 
 <div size='20px'> Wish you have a good day. </div>
 
