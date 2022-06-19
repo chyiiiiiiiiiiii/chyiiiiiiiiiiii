@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="right" src="" />
 
-<!--
-**chyiiiiiiiiiiii/chyiiiiiiiiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div size='20px'> Wish you have a good day. </div>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = 'https://medium.com/@ab20803'> 
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>
+</a> 
+&nbsp;
+<a href = 'https://www.linkedin.com/in/yiichenhi'> 
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+</a> 
+&nbsp;
+<a href = 'https://www.twitter.com/@yiichenhi'>
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
+</a> 
+
+</br>
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
+</a>
