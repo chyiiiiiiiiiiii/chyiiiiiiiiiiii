@@ -15,8 +15,8 @@ Wish you have a good day!
 [![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
 
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
 </div>
 
 
