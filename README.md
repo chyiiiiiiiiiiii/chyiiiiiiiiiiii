@@ -16,10 +16,10 @@ Wish you have a good day!
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
   </a>
 </div>
 
