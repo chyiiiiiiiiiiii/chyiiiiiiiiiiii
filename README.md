@@ -1,4 +1,4 @@
-<img align="right" width="300" src="flutter_dash.gif" />
+<img align="right" width="240" src="flutter_dash.gif" />
 
 I am a flutter lover and developer in Taiwan. 
 
@@ -14,9 +14,15 @@ Wish you have a good day!
 
 [![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
-</a>
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
+  </a>
+</div>
+
 
 <!-- Links -->
 [buy_me_a_coffee]: https://www.buymeacoffee.com/yiichenhi
