@@ -2,7 +2,7 @@
 
 I am a flutter lover and developer in Taiwan. 
 
-Keep making the Chinese community of flutter stronger.
+Keep making Chinese community of flutter stronger.
 
 Wish you have a good day!
 
