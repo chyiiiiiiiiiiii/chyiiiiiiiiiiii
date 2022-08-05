@@ -26,7 +26,7 @@ Wish you have a good day!
 - [提高Flutter性能的小技巧！(三)](https://ab20803.medium.com/%E6%8F%90%E9%AB%98flutter%E6%80%A7%E8%83%BD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7-%E4%B8%89-847f70a8dcbc)
 - ["freezed" makes model class strong and easily in Flutter](https://ab20803.medium.com/freezed-makes-model-class-strong-and-easily-cf5388bb94b7)
 - [LoadBalancer is optimization for Isolates in Flutter](https://ab20803.medium.com/%E5%84%AA%E5%8C%96-flutter-isolates-%E7%9A%84-loadbalancer-87ab57f210e4)
-- [...](https://medium.com/me/stories/public)
+- [...](https://yiichenhi.medium.com/)
 
 </br>
 
