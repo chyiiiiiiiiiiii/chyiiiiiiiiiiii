@@ -18,9 +18,6 @@ Wish you have a good day!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yiichenhi)
 [![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
-### Donate and encourage me
-[![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
-
 ### Latest articles
 - [Easily understand StatefulWidget LifeCycle of Flutter](https://yiichenhi.medium.com/easily-understand-statefulwidget-lifecycle-of-flutter-1064ec4ee11e)
 - [提高Flutter性能的小技巧！(三)](https://ab20803.medium.com/%E6%8F%90%E9%AB%98flutter%E6%80%A7%E8%83%BD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7-%E4%B8%89-847f70a8dcbc)
