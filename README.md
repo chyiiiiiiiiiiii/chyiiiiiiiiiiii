@@ -1,4 +1,4 @@
-<img align="right" width="220" src="flutter_dash.gif" />
+<img align="right" width="500" src="dash.png" />
 
 I am a flutter lover and developer in Taiwan. 
 
