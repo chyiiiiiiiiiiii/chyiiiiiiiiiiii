@@ -18,7 +18,7 @@ Wish you have a good day!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yiichenhi)
 [![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
-### Latest articles
+### Latest articles on Medium
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=0)](https://yiichenhi.medium.com)
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=1)](https://yiichenhi.medium.com)
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=2)](https://yiichenhi.medium.com)
