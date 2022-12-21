@@ -1,4 +1,4 @@
-<img align="right" width="460" src="dash.png" />
+<img align="right" width="440" src="dash.png" />
 
 I am a flutter lover in Taiwan. 
 
