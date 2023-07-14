@@ -17,9 +17,9 @@ Wish you have a good day!
 [![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
 ### Talks
-| Date | Title | Type |
-| ------------- | ------------- | ------------- |
-| 2023-07-01、08 | Google IO Extended 2023 - What's good in Flutter 3.10 and Dart 3? | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20IO%20Extended%202023) |
+| Date | Event | Title | Type |
+| ------------- | ------------- | ------------- | ------------- |
+| 2023-07-01、08 | Google IO Extended 2023 | What's good in Flutter 3.10 and Dart 3? | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20IO%20Extended%202023) |
 
 ### Latest articles
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=0)](https://yiichenhi.medium.com)
