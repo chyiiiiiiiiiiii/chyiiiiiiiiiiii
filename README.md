@@ -31,7 +31,13 @@ Wish you have a good day!
 ### Apps I developed
 - [HerFIT 🏋🏼](https://herfit.app/)
 - [Hanami 👫🏼](https://www.hanamistar.com/tw)
+- [uniB 🚌](https://apps.apple.com/tw/app/unib/id1544012954)
 - [智慧好鼻獅 💨](https://apps.apple.com/tw/app/%E6%99%BA%E6%85%A7%E5%A5%BD%E9%BC%BB%E7%8D%85/id1493106303)
+- [銀髮健康 🏥](https://apps.apple.com/tw/app/%E9%8A%80%E9%AB%AE%E5%81%A5%E5%BA%B7/id1568224101)
+- [康復旅程 🏥](https://apps.apple.com/tw/app/%E5%BA%B7%E5%BE%A9%E6%97%85%E7%A8%8B/id1581042711)
+- [好會考 📘](https://play.google.com/store/apps/details?id=tw.com.hsinhua.haohuikaoo)
+- [i-LIFT 🛗](https://apps.apple.com/tw/app/i-lift/id1515263994)
+- [活動好樂趣 🚶🏻](https://play.google.com/store/apps/details?id=tw.com.chyiiiiiiiiiiii.navigate&hl=en_US)
 
 </br>
 
