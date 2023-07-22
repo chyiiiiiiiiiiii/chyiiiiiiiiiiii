@@ -1,8 +1,8 @@
 <img align="right" width="440" src="dash.png" />
 
-I am a flutter lover in Taiwan. 
+I live in Taiwan. 
 
-Keep making Chinese community of flutter stronger.
+Keep making Chinese community of Flutter stronger.
 
 Wish you have a good day!
 
