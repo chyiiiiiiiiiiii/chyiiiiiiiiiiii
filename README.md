@@ -30,6 +30,7 @@ Wish you have a good day!
 
 ### Apps I developed
 - [HerFIT 🏋🏼](https://herfit.app/)
+- [Flavor 🧋]()
 - [Hanami 👫🏼](https://www.hanamistar.com/tw)
 - [uniB 🚌](https://apps.apple.com/tw/app/unib/id1544012954)
 - [智慧好鼻獅 💨](https://apps.apple.com/tw/app/%E6%99%BA%E6%85%A7%E5%A5%BD%E9%BC%BB%E7%8D%85/id1493106303)
