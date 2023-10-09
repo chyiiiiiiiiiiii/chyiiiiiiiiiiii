@@ -17,9 +17,10 @@ Wish you have a good day!
 [![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
 ### Talks
-| Date | Event | Title | Type |
-| ------------- | ------------- | ------------- | ------------- |
-| 2023-07-01、08 | Google IO Extended 2023 | What's good in Flutter 3.10 and Dart 3? | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20IO%20Extended%202023) |
+| Date | Event | Title | Repo | Video | Slide |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023-09-27 | Flutter Meetup #6 | 幫助你熟悉 Dart 3，這些高效語法你需要知道 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Meetup%20%236) | waiting | [Slide](https://docs.google.com/presentation/d/14EaZRa-uBGp_kd61VEv2jsbvyCwVY10RI_wBMC3UWu8/edit?usp=sharing) |
+| 2023-07-01、08 | Google IO Extended 2023 | What's good in Flutter 3.10 and Dart 3? | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20IO%20Extended%202023) | [Video](https://www.youtube.com/watch?v=YhbXrlb32qQ&ab_channel=YiiChen) | [Slide](https://www.canva.com/design/DAFjkJ5VtCc/4CAtAlOYJ2QqZqBJOi3VvQ/view?utm_content=DAFjkJ5VtCc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 
 ### Latest articles
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=0)](https://yiichenhi.medium.com)
