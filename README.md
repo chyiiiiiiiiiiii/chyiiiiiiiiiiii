@@ -1,14 +1,8 @@
 <img align="right" width="150" src="yii.png" />
 
-I live in Taiwan.
-
-Keep making Chinese community of Flutter stronger.
+I am Yii live in Taiwan. Keep making Chinese community of Flutter stronger.
 
 Wish you have a good day!
-
-</br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chyiiiiiiiiiiii&label=Views&color=blue&style=plastic&style=for-the-badge" alt="chyiiiiiiiiiiii" /> </p>
 
 ### More of me
 [![Medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://yiichenhi.medium.com)
@@ -26,13 +20,15 @@ Wish you have a good day!
 | 2023-09-27 | Flutter Meetup #6 | 幫助你熟悉 Dart 3，這些高效語法你需要知道 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Meetup%20%236) | [Video](https://www.youtube.com/watch?v=uAYCrNjBTvQ&ab_channel=FlutterTaipei) | [Slide](https://docs.google.com/presentation/d/14EaZRa-uBGp_kd61VEv2jsbvyCwVY10RI_wBMC3UWu8/edit?usp=sharing) |
 | 2023-07-01、08 | Google IO Extended 2023 | What's good in Flutter 3.10 and Dart 3? | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20IO%20Extended%202023) | [Video](https://www.youtube.com/watch?v=YhbXrlb32qQ&ab_channel=YiiChen) | [Slide](https://www.canva.com/design/DAFjkJ5VtCc/4CAtAlOYJ2QqZqBJOi3VvQ/view?utm_content=DAFjkJ5VtCc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 
+<!-- hide
 ### Latest articles
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=0)](https://yiichenhi.medium.com)
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=1)](https://yiichenhi.medium.com)
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=2)](https://yiichenhi.medium.com)
 [![yiichenhi medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=yiichenhi&offset=4)](https://yiichenhi.medium.com)
 [more...](https://yiichenhi.medium.com/)
-
+-->
+ 
 ### Apps I developed
 - [VIBZ 🤼](https://www.vibz.cool/)
 - [HerFIT 🏋🏼](https://herfit.app/)
@@ -51,6 +47,7 @@ Wish you have a good day!
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
+  <img src="https://komarev.com/ghpvc/?username=chyiiiiiiiiiiii&label=Views&color=blue&style=plastic&style=for-the-badge" alt="chyiiiiiiiiiiii" />
 </div>
 
 <!-- Links -->
