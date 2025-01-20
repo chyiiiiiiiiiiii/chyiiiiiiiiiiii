@@ -53,7 +53,6 @@ Wish you have a good day!
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
-  <img src="https://komarev.com/ghpvc/?username=chyiiiiiiiiiiii&label=Views&color=blue&style=plastic&style=for-the-badge" alt="chyiiiiiiiiiiii" />
 </div>
 
 <!-- Links -->
