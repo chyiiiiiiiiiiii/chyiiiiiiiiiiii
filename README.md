@@ -4,15 +4,25 @@ I am Yii live in Taiwan. Keep making Chinese community of Flutter stronger.
 
 Wish you have a good day!
 
+# Book《Flutter Brave》
+<img src='./flutter-brave-book.png' height="200px">
+Publisher: DrMaster Press Co., Ltd. </br>
+Publication Date: December 26, 2024 </br>
+Language: Traditional Chinese </br>
+
+[details..](https://github.com/chyiiiiiiiiiiii/flutter-brave-book-2024)
+
+
 ### More of me
 [![Medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://yiichenhi.medium.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiichenhi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yiichenhi)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yiichenhi)
 [![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
 ### Talks
 | Date | Event | Title | Repo | Video | Slide |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2025-06-10 | Flutter Global Summit 2025 | Flutter In-App Purchases Simplified: Pro Tips, Best Practices, and Pitfalls with RevenueCat | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Global%20Summit%202025) | [Video](https://www.youtube.com/watch?v=91mEKd2XszA&ab_channel=YiiChen) | [Slide](https://docs.google.com/presentation/d/1FJOsGOjNRorJTBAxZcZwlwDGkhDVhBJfsEkt1qXoapw/edit?usp=sharing) |
 | 2024-10-29 | Flutter Taipei Meetup #18 | Bottom To Top About Flutter Testing | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Taipei%20Meetup%20%2318) | [Video](https://www.youtube.com/watch?v=8QNd1cYfGsk&t=19s&ab_channel=FlutterTaipei) | [Slide](https://docs.google.com/presentation/d/18lalpt0S4MEASrONsFuV1YotMuIGfJIp7fb3M_bA-gI/edit?usp=sharing) |
 | 2024-09-24 | Flutter Taipei Meetup #17 | Flutter September 2024 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Taipei%20Meetup%20%2317) | [Video](https://www.youtube.com/watch?v=og0pcrumJPU&ab_channel=FlutterTaipei) | [Slide](https://www.canva.com/design/DAGRlsSEL1w/byiUgKX9UR9HW2Sae3kMZA/edit?utm_content=DAGRlsSEL1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 2024-07-30 | Flutter Taipei Meetup #15 | Flutter July 2024 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Taipei%20Meetup%20%2315) | [Video](https://www.youtube.com/watch?v=1iBcNUUY6TA&ab_channel=FlutterTaipei) | [Slide](https://www.canva.com/design/DAGMHt63Bwc/fsrC817yYCqdfFgGzaCGbA/edit?utm_content=DAGMHt63Bwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
@@ -36,7 +46,8 @@ Wish you have a good day!
 -->
 
 ### Apps I developed
-- [VIBZ 🤼](https://www.vibz.cool/)
+- [CrushAI 🤖](https://crush.passion.xyz/)
+- [VIBZ 🤼](https://apps.apple.com/tw/app/vibz/id6463854219)
 - [HerFIT 🏋🏼](https://herfit.app/)
 - [Flavor 🧋]()
 - [Hanami 👫🏼](https://www.hanamistar.com/tw)
