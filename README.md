@@ -47,6 +47,7 @@ Language: Traditional Chinese </br>
 -->
 
 ### Apps I developed
+- [Moniit 💰](https://moniit.com/)
 - [CrushAI 🤖](https://crush.passion.xyz/)
 - [VIBZ 🤼](https://apps.apple.com/tw/app/vibz/id6463854219)
 - [HerFIT 🏋🏼](https://herfit.app/)
@@ -61,11 +62,6 @@ Language: Traditional Chinese </br>
 - [活動好樂趣 🚶🏻](https://play.google.com/store/apps/details?id=tw.com.chyiiiiiiiiiiii.navigate&hl=en_US)
 
 </br>
-
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyiiiiiiiiiiii&layout=compact" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyiiiiiiiiiiii&hide=contribs" />
-</div>
 
 <!-- Links -->
 [buy_me_a_coffee]: https://www.buymeacoffee.com/yiichenhi
